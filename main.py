@@ -51,7 +51,7 @@ while True:
   except ValueError:
     print(
         "\033[31m",
-        "ERROR: PLEASE ENTER POSITIVE AND NEGATIVE NUMBERS ONLY.\n-------------------> make sure you place all 3 numbers according to correct LOGICS <---------------------",
+        "ERROR: PLEASE ENTER POSITIVE AND NEGATIVE NUMBERS ONLY.\n-------------------> make sure you place all 3 numbers according to correct LOGICS and try again <---------------------",
         "\033[0m")
 
 print(
