@@ -8,7 +8,7 @@ while True:
   try:
     start_at = input("\nstart at -----> ")
     end_at = input("\nend at -------> ")
-    increment = input("\nincrement between value --------> ")
+    increment = input("\nhow many should be added each time? --------> ")
     print()
 
     # Convert inputs to integers
